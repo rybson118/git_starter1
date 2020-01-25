@@ -1,2 +1,2 @@
 # git_starter1
-this is a repository 
+this is README file is created for perpouses 
